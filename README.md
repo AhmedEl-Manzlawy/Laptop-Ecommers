@@ -35,8 +35,10 @@ Designed for scalability, fast performance, and a smooth developer experience.
 https://e-commerslabtop.web.app/home
 
 Email &password to test sign-in
+
+
 email:emily.johnson@x.dummyjson.com
-password:
+password:emilyspass
 
 email:addison.wright@x.dummyjson.com
 password:addisonwpass
