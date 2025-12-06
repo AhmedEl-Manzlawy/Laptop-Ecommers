@@ -1,4 +1,4 @@
-# 🌸 E-commers App
+#  E-commers App
 
 A modern **Vue 3 + Vite** single-page application built with **Vuetify 3**, **Pinia**, and **Vue Router**.  
 Designed for scalability, fast performance, and a smooth developer experience.
@@ -33,7 +33,6 @@ Designed for scalability, fast performance, and a smooth developer experience.
 
 ## 🛠️ Live Demo :
 https://e-commerslabtop.web.app/home
-
 Email &password to test sign-in
 
 
